@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FirstTask.hpp
+omp.h
+-
+iostream
+-
+
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/SecondTask.hpp
+omp.h
+-
+iostream
+-
+
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/main.cpp
+FirstTask.hpp
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FirstTask.hpp
+SecondTask.hpp
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/SecondTask.hpp
+
+/usr/local/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+
