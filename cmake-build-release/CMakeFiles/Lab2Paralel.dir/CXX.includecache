@@ -12,6 +12,8 @@ omp.h
 iostream
 -
 
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FourthTask.hpp
+
 /Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/SecondTask.hpp
 omp.h
 -
@@ -33,6 +35,8 @@ SecondTask.hpp
 /Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/SecondTask.hpp
 ThirdTask.hpp
 /Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/ThirdTask.hpp
+FourthTask.hpp
+/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FourthTask.hpp
 
 /usr/local/include/omp.h
 stdlib.h

@@ -83,7 +83,13 @@
 		<Unit filename="/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FirstTask.hpp">
 			<Option target="Lab2Paralel"/>
 		</Unit>
+		<Unit filename="/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/FourthTask.hpp">
+			<Option target="Lab2Paralel"/>
+		</Unit>
 		<Unit filename="/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/SecondTask.hpp">
+			<Option target="Lab2Paralel"/>
+		</Unit>
+		<Unit filename="/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/ThirdTask.hpp">
 			<Option target="Lab2Paralel"/>
 		</Unit>
 		<Unit filename="/Users/antonglomadov/IdeaProjects/git/lab2-Parallel-/main.cpp">
