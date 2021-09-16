@@ -1,6 +1,9 @@
 //
 // Created by Антон Гломадов on 9/16/21.
 //
+#pragma once
+#include <omp.h>
+#include <iostream>
 void FourthTask() {
     std::cout<<"Задание 4\n";
     int countOfThreads = 0;
